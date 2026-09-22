@@ -1,0 +1,10 @@
+script_path: D:\AutoCalibration_code\Tool\PerspectiveProjection_v7.py
+save_date: '2026-09-22 15:52:50'
+img_folder: D:\AutoCalibration_code\Tool\data\RotatedChessBoard_renamed
+out_size:
+  width: 1457
+  height: 854
+homography:
+- [0.7201653875761457, -0.18247182425928324, 131.3797133030567]
+- [0.00027796477496451315, 0.749820065270537, -7.176250775842163e-07]
+- [-0.0001276942153996127, -0.00028305410933686446, 1.0]
